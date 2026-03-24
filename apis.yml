@@ -1,0 +1,7 @@
+aid: fortune-brands-home-and-security
+url: https://raw.githubusercontent.com/api-evangelist/fortune-brands-home-and-security/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.fortune-brands-home-and-security.com
