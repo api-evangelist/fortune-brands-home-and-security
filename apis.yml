@@ -1,7 +1,12 @@
 aid: fortune-brands-home-and-security
-url: https://raw.githubusercontent.com/api-evangelist/fortune-brands-home-and-security/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/fortune-brands-home-and-security/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.fortune-brands-home-and-security.com
+description: >-
+  Fortune Brands Home & Security is a leading home and security products company with
+  a portfolio of brands offering kitchen and bath cabinetry, plumbing, security, and
+  outdoor living products.
