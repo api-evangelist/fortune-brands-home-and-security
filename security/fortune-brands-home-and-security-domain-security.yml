@@ -1,0 +1,27 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.fbin.com
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Sep 18 23:59:59 2026 GMT
+  hsts: null
+- host: www.fortunebrands.com
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Oct  1 23:59:59 2026 GMT
+  hsts: false
+domains:
+- domain: fbin.com
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine
+- domain: fortunebrands.com
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: quarantine
